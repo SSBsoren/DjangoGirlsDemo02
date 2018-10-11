@@ -1,6 +1,5 @@
 body{
   background-color: #C8C8C8;
-  padding-left: 0px;
 }
 .page-header {
   padding:  5px;
@@ -13,7 +12,6 @@ body{
 
 
 }
-
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
